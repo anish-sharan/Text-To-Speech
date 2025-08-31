@@ -1,4 +1,12 @@
-VoiceSync: Text-to-Speech Platform
+# VoiceSync: Text-to-Speech Platform
+
+
+## Screenshot
+
+<p align="center">
+  <img src="https://github.com/anish-sharan/Text-To-Speech/raw/main/frontend/workings/Screenshot%202025-08-30%20at%205.00.16%E2%80%AFPM.png" alt="App Screenshot" width="600">
+</p>
+
 VoiceSync is a modern, user-friendly text-to-speech (TTS) application that converts text or .txt file inputs into high-quality, natural-sounding speech using the SpeechT5 model from Hugging Face. Powered by a FastAPI backend and a React frontend, VoiceSync offers a sleek interface for seamless text-to-speech conversion.
 
 ✨ Features
@@ -145,10 +153,5 @@ FastAPI for the robust backend framework
 React for the flexible frontend framework
 Lucide-React for modern icons
 
-## Screenshot
-
-<p align="center">
-  <img src="https://github.com/anish-sharan/Text-To-Speech/raw/main/frontend/workings/Screenshot%202025-08-30%20at%205.00.16%E2%80%AFPM.png" alt="App Screenshot" width="600">
-</p>
 
 
