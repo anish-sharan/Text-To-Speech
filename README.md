@@ -153,7 +153,7 @@ Lucide-React for modern icons
 ## Screenshot
 
 <p align="center">
-  <img src="frontend/workings/screenshot.png" alt="App Screenshot" width="600">
+  <img src="https://github.com/anish-sharan/Text-To-Speech/raw/main/frontend/workings/Screenshot%202025-08-30%20at%205.00.16%E2%80%AFPM.png" alt="App Screenshot" width="600">
 </p>
 
 
