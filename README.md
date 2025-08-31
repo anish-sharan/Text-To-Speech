@@ -152,5 +152,8 @@ Lucide-React for modern icons
 
 ## Screenshot
 
-![App Screenshot](frontend/workings/Screenshot%202025-08-30%20at%205.00.16 PM.png)
+<p align="center">
+  <img src="frontend/workings/screenshot.png" alt="App Screenshot" width="600">
+</p>
+
 
