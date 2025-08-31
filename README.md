@@ -149,3 +149,8 @@ Hugging Face for the SpeechT5 model and Transformers library
 FastAPI for the robust backend framework
 React for the flexible frontend framework
 Lucide-React for modern icons
+
+## Screenshot
+
+![App Screenshot](frontend/workings/Screenshot%202025-08-30%20at%205.00.16 PM.png)
+
