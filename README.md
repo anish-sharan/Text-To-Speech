@@ -101,11 +101,6 @@ Text Input:curl -X POST -H "Content-Type: application/json" -d '{"text":"Hello, 
 
 File Upload:curl -X POST -F "file=@/path/to/test.txt" http://http://127.0.0.1:8000/tts/file --output output.wav
 
-
-
-
-
-
 📂 Project Structure
 tts-app/
 ├── backend/
